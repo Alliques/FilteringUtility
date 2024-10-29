@@ -2,7 +2,7 @@
   "profiles": {
     "FilteringUtility": {
       "commandName": "Project",
-      "commandLineArgs": "--cityDistrict=Юг --firstDeliveryDateTimeStart=2024-10-26T10:10:00\r\n_firstDeliveryDateTimeEnd=2024-10-26T19:20:00 --deliveryLog=\\. --deliveryOrder=.\\deliveryOrders.txt _dataPath=.\\Data.csv"
+      "commandLineArgs": "--cityDistrict=Юг --firstDeliveryDateTimeStart=2024-10-26T10:10:00\r\n_firstDeliveryDateTimeEnd=2024-10-26T19:20:00 --deliveryLog=\\. --deliveryOrder=.\\deliveryOrders.txt _dataPath=..\\..\\..\\..\\..\\build\\Data.csv"
     }
   }
 }
